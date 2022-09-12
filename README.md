@@ -1,3 +1,0 @@
-# Ejercicios-
-PROGRAMACIÓN ESTRUCTURADA EN JAVA
-
